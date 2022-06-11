@@ -1,1 +1,1 @@
-# Qt-Homework
+# Qt-Homework original version
